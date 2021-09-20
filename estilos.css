@@ -1,0 +1,31 @@
+body{
+    background-color: #b7d7e8;
+    color: #002f50;
+    font-family: 'Lucida Sans';
+}
+
+h1{
+    text-align: center;
+    color: white;
+    background-color: #034f84;
+    padding: 10px;
+    
+}
+img{
+    display: block;
+    margin: auto;
+}
+
+p{
+    font-size: 15px;
+}
+h2{
+    background-color: rgb(0, 70, 128);
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+iframe{
+    display: block;
+    margin: auto;
+}
